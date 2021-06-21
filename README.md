@@ -88,6 +88,22 @@
     <td>웹과 앱 구현</td>
     <td>-</td>
   </tr>
+    <tr>
+    <td  rowspan=3>라이브러리</td>
+    <td>Google vision API</td>
+    <td>OCR 기능을 Google Vision API를 사용하여 텍스트 추출</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>OpenCV</td>
+    <td>OpenCV를 이용하여 이진화 및 잡티제거 알고리즘으로 전처리</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Google Speech API</td>
+    <td>Google Speech API를 이용하여 TTS 구현</td>
+    <td>-</td>
+  </tr>
 </table>
 
 
