@@ -34,7 +34,7 @@
     <th>적용 내역</th>
     <th>비고</th>
   </tr>
-   <tr>
+ <tr>
     <td>OS</td>
     <td>Linux</td>
     <td>웹을 동작시키기 위한 가상환경 OS</td>
@@ -73,7 +73,7 @@
     <td>http, jsp, java 2.0 라이선스 4.12.0</td>
   </tr>
   <tr>
-    <td  rowspan=3>개발 언어</td>
+    <td  rowspan=3>개발언어</td>
     <td>Python</td>
     <td>Google Vision API를 이용한 OCR 기능과 전처리 기능 및 음성 기능 구현</td>
     <td>-</td>
@@ -104,7 +104,62 @@
     <td>Google Speech API를 이용하여 TTS 구현</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>프레임워크</td>
+    <td>Bootstrap</td>
+    <td>웹 디자인 구현</td>
+    <td>MIT 라이선스</td>
+  </tr>
 </table>
 
-
+---------------------------------
+### 하드웨어 개발 환경
+<table>
+  <tr>
+    <th>구분</th>
+    <th>항목</th>
+    <th>적용 내역</th>
+    <th>비고</th>
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td>Window</td>
+    <td>아두이노를 동작시키기 위한 OS</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td  rowspan=3>디바이스</td>
+    <td>Arduino UNO</td>
+    <td>아두이노 점자 표시 모듈과 연결</td>
+    <td>Arduino Uno R3, 5V</td>
+  </tr>
+  <tr>
+    <td>아두이노 점자 표시 모듈</td>
+    <td>점자를 표현하기 위한 것으로 3개당 한 글자 표현</td>
+    <td>5V, 2A</td>
+  </tr>
+  <tr>
+    <td>SMPS</td>
+    <td>전원 공급 장치</td>
+    <td>출력 전압 5V, 출력 전류 2A</td>
+  </tr>
+  <tr>
+    <td>개발도구</td>
+    <td>ARDUINO</td>
+    <td>아두이노 IDE</td>
+    <td>1.8.1 GPL 라이선스</td>
+  </tr>
+  <tr>
+    <td>개발언어</td>
+    <td>C</td>
+    <td>아두이노 구현</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td>클래스</td>
+    <td>Software Serial</td>
+    <td>소프트웨어적으로 시리얼 포트를 구현</td>
+    <td>-</td>
+  </tr>
+</table>
 
