@@ -165,6 +165,6 @@
 
 ---------------------------------
 ### 데모
-<a href="http://leeyj1116.cafe24.com/" target="_blank">웹사이트 링크</a>
+<a href="http://leeyj1116.cafe24.com/" target="blank">웹사이트 링크</a>
 
 
