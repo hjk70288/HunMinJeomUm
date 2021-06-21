@@ -89,7 +89,7 @@
     <td>-</td>
   </tr>
     <tr>
-    <td  rowspan=3>Library</td>
+    <td  rowspan=3>패키지</td>
     <td>Google vision API</td>
     <td>OCR 기능을 Google Vision API를 사용하여 텍스트 추출</td>
     <td>-</td>
